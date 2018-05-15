@@ -2,7 +2,7 @@ Arrays
 ==
 
 - In an array of arrays, e.g. given `[[], [1, 2, 3], [4, 5], [], [], [6, 7], [8], [9, 10], [], []]`, print: `1, 2, 3, 4, 5, 6, 7, 8, 9, 10`.
-  - Implement an iterator that supports `hasNext()`, `next()` and `remove()` methods.Similar to [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)
+  - Implement an iterator that supports `hasNext()`, `next()` and `remove()` methods. [[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator)]
 - Given a list of item prices, find all possible combinations of items that sum a particular value `K`.
 - Paginate an array with constraints, such as skipping certain items.
 - Implement a circular buffer using an array.
