@@ -34,3 +34,9 @@ Tree
 - Given two trees, write code to find out if tree A is a subtree of tree B.
 - Deepest node in a tree.
   - [Source](http://blog.gainlo.co/index.php/2016/04/26/deepest-node-in-a-tree/)
+  - | Similar Problem | C++ Solution | Time | Space |
+    | --------------- | -------- | ---- | ----- |
+    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Recursive](https://github.com/ATM-SALEH/panacea-leetcode/blob/master/algorithms/c%2B%2B/C7/Maximum%20Depth%20of%20Binary%20Tree/104.cpp#L5) | `O(n)` | `O(n)` |
+    | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Iterative](https://github.com/ATM-SALEH/panacea-leetcode/blob/master/algorithms/c%2B%2B/C7/Maximum%20Depth%20of%20Binary%20Tree/104.cpp#L10) | `O(n)` | `O(n)` |
+    | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Recursive](https://github.com/ATM-SALEH/panacea-leetcode/blob/master/algorithms/c%2B%2B/C7/Maximum%20Depth%20of%20N-ary%20Tree/559.cpp#L5) | `O(n)` | `O(n)` |
+    | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree) | [Iterative](https://github.com/ATM-SALEH/panacea-leetcode/blob/master/algorithms/c%2B%2B/C7/Maximum%20Depth%20of%20N-ary%20Tree/559.cpp#L13) | `O(n)` | `O(n)` |
